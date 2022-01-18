@@ -2,5 +2,5 @@
 ## Homework for Machine learning
 ### Files includes
 - pdf
-- html
+- html(Download html file to see detail)
 - ipynb
